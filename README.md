@@ -14,7 +14,8 @@ Vengo de una trayectoria laboral sólida y decidí reinventarme como desarrollad
 - **Bases de Datos:** MongoDB, MySQL
 - **Mobile:** Flutter
 - **Herramientas:** Git, GitHub, Trello, Figma, Postman
-- **Metodologías:** Scrum, manejo básico de Python y R
+- **Metodologías:** Scrum
+- **Analista de Datos:** Manejo básico de Python y R
 
 ---
 
