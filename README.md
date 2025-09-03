@@ -10,7 +10,7 @@ Vengo de una trayectoria laboral sólida y decidí reinventarme como desarrollad
 
 ## 🚀 Tecnologías
 - **Frontend:** Vue.js, Angular, HTML, CSS, JavaScript, TypeScript
-- **Backend:** Node.js, Express.js, API REST
+- **Backend:** Java, Node.js, Express.js, API REST
 - **Bases de Datos:** MongoDB, MySQL
 - **Mobile:** Flutter
 - **Herramientas:** Git, GitHub, Trello, Figma, Postman
