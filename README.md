@@ -39,7 +39,8 @@ Vengo de una trayectoria laboral sólida y decidí reinventarme como desarrollad
 ---
 
 ## 🏅 Certificaciones
-- ✅ Cisco CCNA Routing & Switching  
+- ✅ Full Stack Web Development - Clever Cloud MX
+- ✅ Cisco CCNA Routing & Switching 
 - ✅ Mendix Rapid Developer  
 - ✅ Microsoft Database Fundamentals  
 - ✅ Introduction to Cybersecurity – Cisco
