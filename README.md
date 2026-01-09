@@ -23,7 +23,7 @@ Vengo de una trayectoria laboral sólida y decidí reinventarme como desarrollad
 
 ### 🔷 [EdumatesKids – Plataforma educativa web](https://edumateskids.onrender.com)
 - Aplicación Fullstack educativa: login, ejercicios, progreso del alumno.
-- **Stack:** Vue, Node.js, MongoDB – Despliegue en Render.
+- **Stack:** HTML, CSS5, JavaScript, Node.js, MongoDB – Despliegue en Render.
 
 ### 🔷 [PetVeterinary](https://github.com/javajasso/petveterinary)
 - Sistema para gestión de citas veterinarias.
