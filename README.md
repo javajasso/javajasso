@@ -29,7 +29,7 @@ Vengo de una trayectoria laboral sólida y decidí reinventarme como desarrollad
 - Sistema para gestión de citas veterinarias.
 - **Frontend en Netlify**, backend en Render, base de datos en MongoDB.
 
-### 🔷 [IoT ProjectSearch](https://github.com/javajasso/iotprojectsearch)
+### 🔷 [IoT ProjectSearch](https://github.com/javajasso/ProjectSearch)
 - App Flutter con monitoreo remoto, sensores y ESP32.
 - Proyecto académico con evidencia funcional y conexión a base de datos.
 
